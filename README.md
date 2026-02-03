@@ -43,5 +43,3 @@ python GUI.py
 **License & Disclaimer**
 Use this tool at your own risk. Intercepting or modifying network traffic may violate network policies. This project provides no warranty.
 
----
-If you want, I can also add a short usage guide, example screenshots, or a troubleshooting section specific to WinDivert installation.
