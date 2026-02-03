@@ -1,0 +1,14 @@
+# Requirements for NetSpeed (target: Python 3.10)
+customtkinter==5.2.2
+darkdetect==0.8.0
+pillow==12.1.0
+pydivert==2.1.0
+pystray==0.19.5
+packaging==26.0
+six==1.17.0
+
+# Optional / development tools
+pipenv==2023.10.24
+virtualenv==20.24.6
+setuptools==80.10.1
+wheel==0.46.3
